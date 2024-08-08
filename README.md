@@ -8,7 +8,7 @@
 💞️ I’m looking to collaborate with other data enthusiast's<br>
 📫 How to reach me: [LinkedIn](www.linkedin.com/in/ianthemalpass)<br>
 😄 Pronouns: She/Her<br>
-⚡ Fun fact: The sky is white, go figure.<br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianthemalpass) 
@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ianthem&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ianthem&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianthem&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ianthem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
