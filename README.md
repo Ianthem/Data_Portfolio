@@ -11,8 +11,9 @@
 
 My repository includes visualisations and reports done using 
 
-Power Bi 
-Tableau  
-Excel
-Python
-R
+Power Bi, 
+Tableau,  
+Excel,
+Python,
+R,
+.
