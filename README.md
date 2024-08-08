@@ -9,4 +9,10 @@
 
 # What's included
 
-My repository includes visualisations and reports done using Power Bi, Tableau and Excel
+My repository includes visualisations and reports done using 
+
+Power Bi 
+Tableau  
+Excel
+Python
+R
