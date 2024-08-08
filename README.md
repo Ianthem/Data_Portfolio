@@ -1,4 +1,4 @@
-# Data_Portfolio
+# Welcome to my Data_Portfolio
 👋 Hi, I’m @Ianthem
 👀 I’m interested in Data Analysis and Visualisation
 🌱 I’m currently learning Python and R
