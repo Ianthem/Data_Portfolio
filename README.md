@@ -6,7 +6,7 @@
 👀 I’m interested in Data Analysis and Visualisation<br>
 🌱 I’m currently learning Python and R with [JustIT](https://www.justit.co.uk/candidates/training-programmes/data-technician-skills-bootcamps)<br/>
 💞️ I’m looking to collaborate with other data enthusiast's<br>
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/ianthemalpass)<br>
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ianthemalpass/)<br>
 😄 Pronouns: She/Her<br>
 
 
