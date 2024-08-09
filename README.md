@@ -10,6 +10,24 @@
 😄 Pronouns: She/Her<br>
 
 
+##  Education:
+University of Warwick - PGdip Supply Chain and Logistics Management	 Oct 2015 – Mar 2017<br>
+University of Plymouth - BSc (Hons) Oil and Gas Management                       Feb 2013 – Jan 2015                            
+
+## Projects
+
+- R
+
+[Data Cleaning and Graph Plotting](./Titanic/titanicDAScript.R)<br>
+
+
+- Tableau
+
+[Growth and Distribution of House Sales in King County](./KingCountyHouseDashboard.twbx)<br>
+
+
+- Power Bi
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianthemalpass) 
 
