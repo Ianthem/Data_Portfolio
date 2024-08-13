@@ -24,6 +24,8 @@ University of Plymouth - BSc (Hons) Oil and Gas Management                      
 - Tableau
 
 [Growth and Distribution of House Sales in King County](./KingCountyHouseDashboard.twbx)<br>
+[Ethnicity Project](./Ethnicy%20Project/)<br>
+
 
 
 - Power Bi
