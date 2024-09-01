@@ -29,9 +29,9 @@ University of Plymouth - BSc (Hons) Oil and Gas Management                      
 
 
 
-
-
 - Power Bi
+
+[Dashboard on Employee Database](./HR Employee Analysis/Employees SQL assignment.sql)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ianthemalpass) 
